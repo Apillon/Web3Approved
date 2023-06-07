@@ -36,6 +36,6 @@ Decentralized hosting of a website or an app on Apillon is very similar to using
 1. Host your static website on IPFS using CRUST or Apillon or any other provider
 2. Acquire your IPFS URL
 3. Create a Pull request to this Git, with your address included
-4. Use ![Github Actions](https://github.com/Apillon-web3/Web3Approved/blob/main/deploy.yml) to setup automatic deployment: 
+4. Use [Github Actions](https://github.com/Apillon-web3/Web3Approved/blob/main/deploy.yml) to setup automatic deployment: 
 
 
