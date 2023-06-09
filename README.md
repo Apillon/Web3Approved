@@ -1,23 +1,15 @@
-# Web3Approved
+# The Web3Approved initiative
 
 Practise what you preach, host your website on an unstoppable Web3 hosting, powered by IPFS. 
 
-# The Approw3d initiative
-![Approw3d initiative logo](https://github.com/ninoCookies/web3-hosts-file/blob/main/logos/Approw3d-logo5.png "Approw3d initiative logo")
-
-The Approwed initiative was started by Apillon and CRUST in order to improve overall Web3 infrastructure within Polkadot ecosystem. 
-Polkadot as pinnacle of Web3 has several projects whos websites and other products still reside on centralised services, while Web3 alternative is not only faster and as reliable, it is also cheaper. 
-
-{here we add CRUST and Apillon logos}
+Web3Approved represents an initiative aimed to promote the decentralization of operations within the Web3 ecosystem. We believe decentralized hosting is a crucial first step on the journey to the wider adoption of Web3 technologies. To jumpstart the movement, our initiative offers IPFS hosting services for projects to host their websites - completely free of charge.
 
 # The table
 | Project     | http Link | ipfs Link |
 | ----------- | ----------- | ----------- |
 | Apillon      | https://apillon.io      | https://ipfs.apillon.io/ipns/k2k4r8ly23zgyhsk2u91pprkls0i8zf1vkahjpt7k7pjeldkayd2tkx2/      |
-| Apillon      | https://apillon.io      | ipfs://wqdhwdhjwjkdh      |
-| Apillon      | https://apillon.io      | ipfs://wqdhwdhjwjkdh      |
-| Apillon      | https://apillon.io      | ipfs://wqdhwdhjwjkdh      |
-| Apillon      | https://apillon.io      | ipfs://wqdhwdhjwjkdh      |
+| Otherproject      | https://Otherproject.io      | https://ipfs.apillon.io/ipns/k2k4r8ly23zgyhsk2u91pprkls0i8zf1vkahjpt7k7pjeldkayd2tkx2/       |
+| Otherproject      | https://Otherproject.io      | https://ipfs.apillon.io/ipns/k2k4r8ly23zgyhsk2u91pprkls0i8zf1vkahjpt7k7pjeldkayd2tkx2/       |
 
 # Why should you host or backup your website on Web3? 
 Hosting your website or app on a decentralized network of globally scattered nodes makes it unstoppable and defiant against single-point-of-access censorship.
