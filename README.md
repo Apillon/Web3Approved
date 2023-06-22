@@ -8,8 +8,8 @@ Web3Approved represents an initiative aimed to promote the decentralization of o
 | Project     | http Link | ipfs Link |
 | ----------- | ----------- | ----------- |
 | Apillon      | https://apillon.io      | https://ipfs.apillon.io/ipns/k2k4r8ly23zgyhsk2u91pprkls0i8zf1vkahjpt7k7pjeldkayd2tkx2/      |
-| Otherproject      | https://Otherproject.io      | https://ipfs.apillon.io/ipns/k2k4r8ly23zgyhsk2u91pprkls0i8zf1vkahjpt7k7pjeldkayd2tkx2/       |
-| Otherproject      | https://Otherproject.io      | https://ipfs.apillon.io/ipns/k2k4r8ly23zgyhsk2u91pprkls0i8zf1vkahjpt7k7pjeldkayd2tkx2/       |
+| Coin Referece      | https://coinreference.me      |https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/ |
+
 
 # Why should you host or backup your website on Web3? 
 Hosting your website or app on a decentralized network of globally scattered nodes makes it unstoppable and defiant against single-point-of-access censorship.
