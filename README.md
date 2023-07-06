@@ -35,6 +35,5 @@ Decentralized hosting of a website or an app on Apillon is very similar to using
 
 # Web3 Approved symbols
 Equip your website with a Web3 Approved sign and let everyone know you are hosted on Web3!
-![Web3 Approved Sign](https://github.com/Apillon-web3/Web3Approved/blob/main/web3-approved-symbols/web3-approved_1.svg)
-![Web3 Approved Sign](https://github.com/Apillon-web3/Web3Approved/blob/main/web3-approved-symbols/web3-approved_2.svg)
-![Web3 Approved Sign](https://github.com/Apillon-web3/Web3Approved/blob/main/web3-approved-symbols/web3-approved_3.svg)
+![Web3 Approved Sign](https://github.com/Apillon-web3/Web3Approved/blob/main/web3-approved-symbols/web3-approved_1.png)
+![Web3 Approved Sign](https://github.com/Apillon-web3/Web3Approved/blob/main/web3-approved-symbols/web3-approved_2.png)
