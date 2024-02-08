@@ -12,6 +12,7 @@ Web3Approved represents an initiative aimed to promote the decentralization of o
 | Coin Referece | https://coinreference.me | https://ipfs.apillon.io/ipns/k2k4r8kshvk61qn5sit2qof8rkz3ofztnpwhahu54eq8zgr22e6tez2h/ |
 | Otherproject | https://Otherproject.io      | https://ipfs.apillon.io/ipns/k2k4r8ly23zgyhsk2u91pprkls0i8zf1vkahjpt7k7pjeldkayd2tkx2/ |
 | Titus Blog | TBD      | https://ipfs.apillon.io/ipns/k2k4r8ktolbreuvqsio31ik1l922pqmd5j8nei9ndbw96ctfm3mu5xs7/ |
+| BeeSee | https://github.com/Chralt98/beesee | https://crustipfs.live/ipfs/QmSkDjtrPkmcMXQXDz6Zo4VjfzNUVtuRWen65yBeeN68zT/ |
 
 
 # Why should you host or backup your website on Web3? 
